@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Blueprints/HelloWorld.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Blueprints/GM_Curso2024.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/E4/QZGN26A6E880K3EN5JZEGN.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4U/5GL06C2K2OH88RJT277BMP.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YH/YWE6B0JDZ2VRL8EB0I4BL5.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2T/HJ8H2GORRTT8WDRTCCWJ7F.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Blueprints/BP_BaseCharacter.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SZ/C9YPM5HW9MZP6IJ7VA8U4H.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/BP_NewCharacter.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XC/22WMVTRMSFBLW6FLSMCEUJ.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Blueprints/BP_Resta.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/CharacterInputs/IA_Movements.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/CharacterInputs/IA_Look.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/CharacterInputs/IA_Jump.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/CharacterInputs/IMC_PlayerInputs.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/CharacterInputs/IA_Jump_.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/CharacterInputs/IA_Look_.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/CharacterInputs/IA_Movements_.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/Character/CharacterInputs/IA_Movement_.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Blueprints/BP_PlayerChracter.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/dvd/Content/ThirdPerson/Blueprints/BP_Character.uasset"
+			]
+		}
+	]
+}
